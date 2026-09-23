@@ -156,14 +156,16 @@ AI learning assistant that transforms course materials into summaries, study gui
 - Building practical AI-powered applications
 - Intelligent automation
 
-## GitHub Stats
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedzeeshan88&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohammed Abdul Zeeshan Askari's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedzeeshan88&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedzeeshan88&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedzeeshan88&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedzeeshan88&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ## Connect With Me
